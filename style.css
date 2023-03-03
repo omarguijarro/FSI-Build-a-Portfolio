@@ -1,0 +1,20 @@
+body { 
+    background-color: aqua;
+    line-height: 1.5em;
+
+
+
+
+}
+    h1{ 
+        color: blueviolet;
+    background-color: black;
+border-style: dotted;
+border-radius: 10px;}
+
+.myfav{color:red;
+        background-color: black;
+    border-radius: 10px;}
+#contact{ 
+    border: 10px solid green;
+    border-radius: 10px;}
